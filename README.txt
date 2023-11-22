@@ -1,32 +1,58 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+RPA Developer Portfolio
+Welcome to my RPA Developer Portfolio! Here, you'll find details about various projects I've undertaken, showcasing my expertise in Robotic Process Automation (RPA). Feel free to explore the projects, and don't hesitate to reach out for collaboration or inquiries.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Projects
+Extracted 1000 Invoices in 35 Minutes
+Date: April 25, 2017
+Revolutionized a time-intensive task, automating 200 hours of work into less than 2 hours.
+Achieved a significant reduction in human errors and an 85% increase in efficiency.
+View Project
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Web Scraping for Property Benchmark
+Date: April 24, 2022
+Utilized RPA techniques to systematically extract property information from prominent websites.
+Transformed data into a structured Excel format for comprehensive visualization using Tableau.
+Facilitated effective decision-making for new projects.
+View Project
 
-(* = not included)
+CRM Data Capturing to MHub
+Date: June 22, 2022
+Filled up customer data in a web application using DataTables, IF conditions, and log messages.
+Managed bot speed, error handling, and submissions within the website.
+View Project
 
-AJ
-aj@lkn.io | @ajlkn
+Scraping Text Using Optical Character Recognition (OCR)
+Date: April 31, 2021
+Implemented OCR for efficient text scraping.
+View Project
 
+Fill Up Webform Using JavaScript - RPA Challenge
+Date: April 14, 2022
+Used JavaScript in UiPath for speedy form filling.
+View Project
 
-Credits:
+Financial Technology - RPA and SAP
+Date: April 25, 2023
+Successfully integrated RPA and SAP, showcasing versatility in managing complex projects.
+View Project
 
-	Demo Images:
-		Unsplash (unsplash.com)
+Fintect
+Date: April 23, 2023
+Leveraged RPA and SAP concurrently for efficient project management.
+View Project
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Contact Information
+Address
+Met 1 Residences, KL Metropolis, Jalan Sultan Haji Ahmad Shah, 50480 Mont Kiara, Kuala Lumpur
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Phone Number
+(+60) 139085009
+
+Email
+khairuldzulqarnain@gmail.com
+
+Social
+LinkedIn | Twitter | GitHub | Portfolio Website
+
+Feel free to connect and explore more about my work!
