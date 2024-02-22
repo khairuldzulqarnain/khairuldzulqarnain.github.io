@@ -1,6 +1,6 @@
 
-RPA Developer Portfolio
-Welcome to my RPA Developer Portfolio! Here, you'll find details about various projects I've undertaken, showcasing my expertise in Robotic Process Automation (RPA). Feel free to explore the projects, and don't hesitate to reach out for collaboration or inquiries.
+Digital Marketing and Data Analyst Portfolio
+Welcome to my Digital Marketing and Data Analyst Portfolio! Here, you'll find details about various projects I've undertaken, showcasing my expertise in Robotic Process Automation (RPA). Feel free to explore the projects, and don't hesitate to reach out for collaboration or inquiries.
 
 Projects
 Extracted 1000 Invoices in 35 Minutes
